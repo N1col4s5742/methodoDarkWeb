@@ -1,8 +1,8 @@
 import os
 import json
 
-field = "sexy" # Mot à tester
-urlWordAssociation = "https://api.wordassociations.net/associations/v1.0/json/search?apikey=51852ca4-f1c9-4231-8884-4c7957bad29c&text=" 
+field = "crime" # Mot à tester
+urlWordAssociation = "" # url API WordAssociations
 query = urlWordAssociation + field + "&lang=en"
 
 categ = "../wordClassification/categories.json"
@@ -39,4 +39,4 @@ with open(pathToSave) as json_file:
     # print(data['response'][0]['items'])
     for it in data['response'][0]['items']:
         print(it['item'])
-        addWord(it['item'],"Adult") # Changer la Catégorie "Crime", "Adult", "Money", "Market", "Drug", "Virus"
+        addWord(it['item'],"Crime") # Changer la Catégorie "Crime", "Adult", "Money", "Market", "Drug", "Virus"

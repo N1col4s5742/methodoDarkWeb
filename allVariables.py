@@ -11,3 +11,4 @@ listJson = "" # chemin vers fichier "listejson.txt" correspondant au json global
 errorLinks = "" # chemin vers fichier "errorLinks.json" correspondant au json des sites avec erreur
 categories = "" # chemin vers fichier "categories.json" correspondant à la BDD de classification
 classificationFile = "" # chemin vers fichier "classification.txt" correspondant au json global final avec classification
+apiAlyze = "" # url de l'API d'alyze jusqu'à "url="
