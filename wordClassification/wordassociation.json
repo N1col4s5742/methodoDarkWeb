@@ -1,0 +1,271 @@
+{
+    "version": "1.0",
+    "code": 200,
+    "request": {
+        "text": [
+            "sexy"
+        ],
+        "lang": "en",
+        "type": "stimulus",
+        "limit": 50,
+        "pos": "noun,adjective,verb,adverb",
+        "indent": "yes"
+    },
+    "response": [
+        {
+            "text": "sexy",
+            "items": [
+                {
+                    "item": "Sadie",
+                    "weight": 100,
+                    "pos": "noun"
+                },
+                {
+                    "item": "Funny",
+                    "weight": 99,
+                    "pos": "noun"
+                },
+                {
+                    "item": "Playboy",
+                    "weight": 95,
+                    "pos": "noun"
+                },
+                {
+                    "item": "Underwear",
+                    "weight": 94,
+                    "pos": "noun"
+                },
+                {
+                    "item": "Ser",
+                    "weight": 93,
+                    "pos": "noun"
+                },
+                {
+                    "item": "Vibe",
+                    "weight": 92,
+                    "pos": "noun"
+                },
+                {
+                    "item": "Sensual",
+                    "weight": 90,
+                    "pos": "adjective"
+                },
+                {
+                    "item": "Vegetarian",
+                    "weight": 89,
+                    "pos": "adjective"
+                },
+                {
+                    "item": "Provocative",
+                    "weight": 89,
+                    "pos": "adjective"
+                },
+                {
+                    "item": "Blonde",
+                    "weight": 83,
+                    "pos": "noun"
+                },
+                {
+                    "item": "Mari",
+                    "weight": 83,
+                    "pos": "noun"
+                },
+                {
+                    "item": "Dirty",
+                    "weight": 83,
+                    "pos": "adjective"
+                },
+                {
+                    "item": "Gorgeous",
+                    "weight": 80,
+                    "pos": "adjective"
+                },
+                {
+                    "item": "Funky",
+                    "weight": 77,
+                    "pos": "adjective"
+                },
+                {
+                    "item": "Bitch",
+                    "weight": 77,
+                    "pos": "noun"
+                },
+                {
+                    "item": "Sleek",
+                    "weight": 76,
+                    "pos": "adjective"
+                },
+                {
+                    "item": "Fun",
+                    "weight": 76,
+                    "pos": "noun"
+                },
+                {
+                    "item": "Incredibly",
+                    "weight": 76,
+                    "pos": "adverb"
+                },
+                {
+                    "item": "Ranked",
+                    "weight": 75,
+                    "pos": "adjective"
+                },
+                {
+                    "item": "Soap",
+                    "weight": 75,
+                    "pos": "noun"
+                },
+                {
+                    "item": "Maxim",
+                    "weight": 74,
+                    "pos": "noun"
+                },
+                {
+                    "item": "Outfit",
+                    "weight": 72,
+                    "pos": "noun"
+                },
+                {
+                    "item": "Erotic",
+                    "weight": 71,
+                    "pos": "adjective"
+                },
+                {
+                    "item": "Apache",
+                    "weight": 71,
+                    "pos": "noun"
+                },
+                {
+                    "item": "Cute",
+                    "weight": 70,
+                    "pos": "adjective"
+                },
+                {
+                    "item": "Diva",
+                    "weight": 69,
+                    "pos": "noun"
+                },
+                {
+                    "item": "Moreno",
+                    "weight": 68,
+                    "pos": "noun"
+                },
+                {
+                    "item": "Mf",
+                    "weight": 67,
+                    "pos": "noun"
+                },
+                {
+                    "item": "Disco",
+                    "weight": 64,
+                    "pos": "adjective"
+                },
+                {
+                    "item": "Esquire",
+                    "weight": 64,
+                    "pos": "noun"
+                },
+                {
+                    "item": "Spears",
+                    "weight": 63,
+                    "pos": "noun"
+                },
+                {
+                    "item": "Femme",
+                    "weight": 62,
+                    "pos": "noun"
+                },
+                {
+                    "item": "Cool",
+                    "weight": 61,
+                    "pos": "noun"
+                },
+                {
+                    "item": "Smart",
+                    "weight": 61,
+                    "pos": "noun"
+                },
+                {
+                    "item": "Buyer",
+                    "weight": 61,
+                    "pos": "noun"
+                },
+                {
+                    "item": "Tough",
+                    "weight": 59,
+                    "pos": "noun"
+                },
+                {
+                    "item": "Compliment",
+                    "weight": 59,
+                    "pos": "verb"
+                },
+                {
+                    "item": "Babe",
+                    "weight": 57,
+                    "pos": "noun"
+                },
+                {
+                    "item": "Porn",
+                    "weight": 56,
+                    "pos": "noun"
+                },
+                {
+                    "item": "Slim",
+                    "weight": 56,
+                    "pos": "noun"
+                },
+                {
+                    "item": "Gaga",
+                    "weight": 54,
+                    "pos": "adjective"
+                },
+                {
+                    "item": "Mtv",
+                    "weight": 54,
+                    "pos": "noun"
+                },
+                {
+                    "item": "Aaa",
+                    "weight": 54,
+                    "pos": "noun"
+                },
+                {
+                    "item": "Playful",
+                    "weight": 54,
+                    "pos": "adjective"
+                },
+                {
+                    "item": "Nude",
+                    "weight": 53,
+                    "pos": "adjective"
+                },
+                {
+                    "item": "Kingsley",
+                    "weight": 53,
+                    "pos": "noun"
+                },
+                {
+                    "item": "Poll",
+                    "weight": 53,
+                    "pos": "noun"
+                },
+                {
+                    "item": "Choreography",
+                    "weight": 51,
+                    "pos": "noun"
+                },
+                {
+                    "item": "Scary",
+                    "weight": 50,
+                    "pos": "adjective"
+                },
+                {
+                    "item": "Big",
+                    "weight": 50,
+                    "pos": "adverb"
+                }
+            ]
+        }
+    ]
+}

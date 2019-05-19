@@ -1,0 +1,947 @@
+{
+    "info": {
+        "status": 0,
+        "title": "Assassination NETWORK",
+        "description": null,
+        "pageSize": 15015,
+        "metaLang": null,
+        "metaLanguage": null,
+        "htmlLang": null,
+        "wordCount": 84,
+        "linksCount": 37,
+        "linksExternalCount": 19,
+        "linksInternalCount": 7
+    },
+    "network": {
+        "Ip": "35.193.161.204",
+        "IpReverse": "204.161.193.35.bc.googleusercontent.com",
+        "gzip": true,
+        "pageSizeCompressed": 4168,
+        "connectTime": 0.16611200000000001,
+        "loadTime": 0.98985299999999998,
+        "HttpResponseCode": 200,
+        "HttpResponse": "HTTP\/1.1 200 OK\r\nDate: Thu, 14 Mar 2019 13:04:06 GMT\r\nServer: Apache\/2.4.18 (Ubuntu)\r\nLast-Modified: Thu, 31 Jan 2019 14:54:39 GMT\r\nETag: \"3aa7-580c234a829c0-gzip\"\r\nAccept-Ranges: bytes\r\nVary: Accept-Encoding\r\nContent-Encoding: gzip\r\nContent-Length: 4168\r\nContent-Type: text\/html",
+        "HttpRequest": "GET \/ HTTP\/1.1\r\nHost: mint.localhost.run\r\nUser-Agent: Mozilla\/5.0 (compatible; https:\/\/alyze.info)\r\nAccept-Encoding: gzip\r\nAccept-Language: fr,en,en-us\r\nAccept:text\/html,application\/xhtml+xml,application\/xml,*\/*"
+    },
+    "seoAudit": {
+        "wordsNumber": "warning",
+        "wordsNumberDistincts": "ok",
+        "wordsNumberRelevant": "ok",
+        "wordsNumberRelevantDistinct": "ok",
+        "freqRepetitionGlobal": "ok",
+        "freqRepetitionWordsRelevantDistinct": "ok",
+        "freqRepetitionPhrase": "warning",
+        "weightForWord": "warning",
+        "titleLong": "ok",
+        "titleAbsent": "ok",
+        "descLong": "ok",
+        "descAbsent": "warning",
+        "descShort": "ok",
+        "keywords": "ok",
+        "urlQuery": "ok",
+        "urlUnderscore": "ok",
+        "h1": "warning",
+        "h2": "ok",
+        "h1first": "warning",
+        "noHx": "ok",
+        "jsInline": "warning",
+        "styleInline": "warning",
+        "inlineStyleAttr": "warning",
+        "jsFiles": "ok",
+        "styleFiles": "warning",
+        "frames": "ok",
+        "iFrames": "ok",
+        "langue": "warning",
+        "encoding": "ok",
+        "robotsarchive": "ok",
+        "robotsindex": "ok",
+        "robotsfollow": "ok",
+        "robotssnippet": "ok",
+        "robotsodp": "ok",
+        "robotsydir": "ok",
+        "robotsimageindex": "ok",
+        "robotstranslate": "ok",
+        "linksQuery": "ok",
+        "linksPath": "ok",
+        "linksNofollow": "ok",
+        "linksScheme": "ok",
+        "linksSecureTarget": "warning",
+        "imagesNoOpt": "warning",
+        "imagesNoAlt": "error",
+        "imagesAltDuplicate": "ok",
+        "socialOg": "warning",
+        "socialTwitter": "warning",
+        "loadTime": "warning",
+        "connectTime": "ok",
+        "httpGzip": "ok",
+        "useHTTPS": "ok",
+        "useHSTS": "warning",
+        "pageGzipSize": "ok"
+    },
+    "keywords": {
+        "assassination network": {
+            "score": 19.02,
+            "occurrences": 4,
+            "tags": {
+                "title": 1,
+                "h4\/strong": 1,
+                "footer": 2
+            }
+        },
+        "about": {
+            "score": 5.8700000000000001,
+            "occurrences": 3,
+            "tags": {
+                "header\/nav\/a": 1,
+                "footer\/h6": 1,
+                "footer\/nav\/a": 1
+            }
+        },
+        "the": {
+            "score": 4.5899999999999999,
+            "occurrences": 3,
+            "tags": {
+                "h4": 1,
+                "footer": 2
+            }
+        },
+        "in the": {
+            "score": 3.5499999999999998,
+            "occurrences": 2,
+            "tags": {
+                "h4": 1,
+                "footer": 1
+            }
+        },
+        "assassination": {
+            "score": 3.3599999999999999,
+            "occurrences": 4,
+            "tags": {
+                "title": 1,
+                "h4\/strong": 1,
+                "footer": 2
+            }
+        },
+        "network": {
+            "score": 3.3599999999999999,
+            "occurrences": 4,
+            "tags": {
+                "title": 1,
+                "h4\/strong": 1,
+                "footer": 2
+            }
+        },
+        "in": {
+            "score": 2.6299999999999999,
+            "occurrences": 3,
+            "tags": {
+                "h4": 1,
+                "footer": 1,
+                "footer\/h6": 1
+            }
+        },
+        "mint": {
+            "score": 1.73,
+            "occurrences": 1,
+            "tags": {
+                "url.host": 1
+            }
+        },
+        "media": {
+            "score": 1.73,
+            "occurrences": 1,
+            "tags": {
+                "h4": 1
+            }
+        },
+        "localhost": {
+            "score": 1.73,
+            "occurrences": 1,
+            "tags": {
+                "url.host": 1
+            }
+        },
+        "run": {
+            "score": 1.73,
+            "occurrences": 1,
+            "tags": {
+                "url.host": 1
+            }
+        },
+        "get": {
+            "score": 1.3400000000000001,
+            "occurrences": 1,
+            "tags": {
+                "footer\/h6": 1
+            }
+        },
+        "touch": {
+            "score": 1.3400000000000001,
+            "occurrences": 1,
+            "tags": {
+                "footer\/h6": 1
+            }
+        },
+        "news": {
+            "score": 1.0900000000000001,
+            "occurrences": 2,
+            "tags": {
+                "header\/nav\/a": 1,
+                "footer\/nav\/a": 1
+            }
+        },
+        "faq": {
+            "score": 1.0900000000000001,
+            "occurrences": 2,
+            "tags": {
+                "header\/nav\/a": 1,
+                "footer\/nav\/a": 1
+            }
+        },
+        "portfolio": {
+            "score": 1.0900000000000001,
+            "occurrences": 2,
+            "tags": {
+                "header\/nav\/a": 1,
+                "footer\/nav\/a": 1
+            }
+        },
+        "home": {
+            "score": 1.0900000000000001,
+            "occurrences": 2,
+            "tags": {
+                "header\/nav\/a": 1,
+                "footer\/nav\/a": 1
+            }
+        },
+        "the media": {
+            "score": 1.0900000000000001,
+            "occurrences": 1,
+            "tags": {
+                "h4": 1
+            }
+        },
+        "contact": {
+            "score": 1.0900000000000001,
+            "occurrences": 2,
+            "tags": {
+                "header\/nav\/a": 1,
+                "footer\/nav\/a": 1
+            }
+        },
+        "hiring": {
+            "score": 1.0900000000000001,
+            "occurrences": 2,
+            "tags": {
+                "header\/nav\/a": 1,
+                "footer\/nav\/a": 1
+            }
+        },
+        "in the media": {
+            "score": 0.92000000000000004,
+            "occurrences": 1,
+            "tags": {
+                "h4": 1
+            }
+        },
+        "2cx87dfvfcyabjbswmndrru69vgecq8jqr": {
+            "score": 0.69999999999999996,
+            "occurrences": 1,
+            "tags": {
+                "footer\/strong": 1
+            }
+        },
+        "for": {
+            "score": 0.56000000000000005,
+            "occurrences": 2,
+            "tags": {
+                "footer": 2
+            }
+        },
+        "in touch": {
+            "score": 0.53000000000000003,
+            "occurrences": 1,
+            "tags": {
+                "footer\/h6": 1
+            }
+        },
+        "august": {
+            "score": 0.45000000000000001,
+            "occurrences": 1,
+            "tags": {
+                "default": 1
+            }
+        },
+        "rufino": {
+            "score": 0.45000000000000001,
+            "occurrences": 1,
+            "tags": {
+                "default": 1
+            }
+        },
+        "catal\u00e0": {
+            "score": 0.45000000000000001,
+            "occurrences": 1,
+            "tags": {
+                "default": 1
+            }
+        },
+        "gabriel": {
+            "score": 0.45000000000000001,
+            "occurrences": 1,
+            "tags": {
+                "default": 1
+            }
+        },
+        "january": {
+            "score": 0.45000000000000001,
+            "occurrences": 1,
+            "tags": {
+                "default": 1
+            }
+        },
+        "nisman": {
+            "score": 0.45000000000000001,
+            "occurrences": 1,
+            "tags": {
+                "default": 1
+            }
+        }
+    },
+    "keywordsPair": {
+        "assassination network": {
+            "score": 48,
+            "occurrences": 4
+        }
+    },
+    "internalLinks": {
+        "https:\/\/mint.localhost.run\/index.html": {
+            "0": {
+                "text": "[IMG]",
+                "rel": null,
+                "bodyPosition": 3,
+                "fragment": null,
+                "target": null,
+                "path": {
+                    "0": "header",
+                    "1": "nav"
+                },
+                "position": "top"
+            },
+            "1": {
+                "text": "Menu",
+                "rel": null,
+                "bodyPosition": 3,
+                "fragment": "#",
+                "target": null,
+                "path": {
+                    "0": "header",
+                    "1": "nav"
+                },
+                "position": "top"
+            },
+            "2": {
+                "text": "Home",
+                "rel": null,
+                "bodyPosition": 4,
+                "fragment": null,
+                "target": null,
+                "path": {
+                    "0": "header",
+                    "1": "nav"
+                },
+                "position": "top"
+            },
+            "3": {
+                "text": false,
+                "rel": null,
+                "bodyPosition": 40,
+                "fragment": "#",
+                "target": null,
+                "path": {},
+                "position": "middle"
+            },
+            "4": {
+                "text": false,
+                "rel": null,
+                "bodyPosition": 40,
+                "fragment": "#",
+                "target": null,
+                "path": {},
+                "position": "middle"
+            },
+            "5": {
+                "text": "Home",
+                "rel": null,
+                "bodyPosition": 75,
+                "fragment": null,
+                "target": null,
+                "path": {
+                    "0": "footer",
+                    "1": "nav"
+                },
+                "position": "bottom"
+            },
+            "occurences": 6,
+            "queryString": null,
+            "underscore": false
+        },
+        "https:\/\/mint.localhost.run\/about.html": {
+            "0": {
+                "text": "About",
+                "rel": null,
+                "bodyPosition": 5,
+                "fragment": null,
+                "target": null,
+                "path": {
+                    "0": "header",
+                    "1": "nav"
+                },
+                "position": "top"
+            },
+            "1": {
+                "text": "About",
+                "rel": null,
+                "bodyPosition": 76,
+                "fragment": null,
+                "target": null,
+                "path": {
+                    "0": "footer",
+                    "1": "nav"
+                },
+                "position": "bottom"
+            },
+            "occurences": 2,
+            "queryString": null,
+            "underscore": false
+        },
+        "https:\/\/mint.localhost.run\/portfolio.html": {
+            "0": {
+                "text": "Portfolio",
+                "rel": null,
+                "bodyPosition": 6,
+                "fragment": null,
+                "target": null,
+                "path": {
+                    "0": "header",
+                    "1": "nav"
+                },
+                "position": "top"
+            },
+            "1": {
+                "text": "Portfolio",
+                "rel": null,
+                "bodyPosition": 77,
+                "fragment": null,
+                "target": null,
+                "path": {
+                    "0": "footer",
+                    "1": "nav"
+                },
+                "position": "bottom"
+            },
+            "occurences": 2,
+            "queryString": null,
+            "underscore": false
+        },
+        "https:\/\/mint.localhost.run\/faq.html": {
+            "0": {
+                "text": "FAQ",
+                "rel": null,
+                "bodyPosition": 7,
+                "fragment": null,
+                "target": null,
+                "path": {
+                    "0": "header",
+                    "1": "nav"
+                },
+                "position": "top"
+            },
+            "1": {
+                "text": "FAQ",
+                "rel": null,
+                "bodyPosition": 78,
+                "fragment": null,
+                "target": null,
+                "path": {
+                    "0": "footer",
+                    "1": "nav"
+                },
+                "position": "bottom"
+            },
+            "occurences": 2,
+            "queryString": null,
+            "underscore": false
+        },
+        "https:\/\/mint.localhost.run\/news.html": {
+            "0": {
+                "text": "News",
+                "rel": null,
+                "bodyPosition": 8,
+                "fragment": null,
+                "target": null,
+                "path": {
+                    "0": "header",
+                    "1": "nav"
+                },
+                "position": "top"
+            },
+            "1": {
+                "text": "News",
+                "rel": null,
+                "bodyPosition": 79,
+                "fragment": null,
+                "target": null,
+                "path": {
+                    "0": "footer",
+                    "1": "nav"
+                },
+                "position": "bottom"
+            },
+            "occurences": 2,
+            "queryString": null,
+            "underscore": false
+        },
+        "https:\/\/mint.localhost.run\/hiring.html": {
+            "0": {
+                "text": "Hiring",
+                "rel": null,
+                "bodyPosition": 9,
+                "fragment": null,
+                "target": null,
+                "path": {
+                    "0": "header",
+                    "1": "nav"
+                },
+                "position": "top"
+            },
+            "1": {
+                "text": "Hiring",
+                "rel": null,
+                "bodyPosition": 80,
+                "fragment": null,
+                "target": null,
+                "path": {
+                    "0": "footer",
+                    "1": "nav"
+                },
+                "position": "bottom"
+            },
+            "occurences": 2,
+            "queryString": null,
+            "underscore": false
+        },
+        "https:\/\/mint.localhost.run\/contact.html": {
+            "0": {
+                "text": "Contact",
+                "rel": null,
+                "bodyPosition": 10,
+                "fragment": null,
+                "target": null,
+                "path": {
+                    "0": "header",
+                    "1": "nav"
+                },
+                "position": "top"
+            },
+            "1": {
+                "text": "Contact",
+                "rel": null,
+                "bodyPosition": 81,
+                "fragment": null,
+                "target": null,
+                "path": {
+                    "0": "footer",
+                    "1": "nav"
+                },
+                "position": "bottom"
+            },
+            "occurences": 2,
+            "queryString": null,
+            "underscore": false
+        }
+    },
+    "externalLinks": {
+        "http:\/\/www.trinidadexpress.com\/20170204\/news\/nowhere-safe-shot-in-range-rover-death-outside-police-station": {
+            "0": {
+                "text": "[IMG alt=]",
+                "rel": null,
+                "bodyPosition": 40,
+                "fragment": null,
+                "target": "_blank",
+                "path": {},
+                "position": "middle"
+            },
+            "occurences": 1
+        },
+        "http:\/\/www.guardian.co.tt\/news\/2017-02-05\/father-two-gunned-down": {
+            "0": {
+                "text": "[IMG alt=]",
+                "rel": null,
+                "bodyPosition": 40,
+                "fragment": null,
+                "target": "_blank",
+                "path": {},
+                "position": "middle"
+            },
+            "occurences": 1
+        },
+        "http:\/\/www.fox5dc.com\/news\/172875295-story": {
+            "0": {
+                "text": "[IMG alt=]",
+                "rel": null,
+                "bodyPosition": 40,
+                "fragment": null,
+                "target": "_blank",
+                "path": {},
+                "position": "middle"
+            },
+            "occurences": 1
+        },
+        "http:\/\/www.elmundo.es\/baleares\/2014\/08\/26\/53fc3313e2704e3c3c8b456c.html": {
+            "0": {
+                "text": "[IMG alt=]",
+                "rel": null,
+                "bodyPosition": 40,
+                "fragment": null,
+                "target": "_blank",
+                "path": {},
+                "position": "middle"
+            },
+            "occurences": 1
+        },
+        "http:\/\/ultimahora.es\/sucesos\/ultimas\/2014\/08\/25\/131642\/forense-determinara-hombre-hallado-muerto-valldemossa-fue-asesinado.html": {
+            "0": {
+                "text": "[IMG alt=]",
+                "rel": null,
+                "bodyPosition": 40,
+                "fragment": null,
+                "target": "_blank",
+                "path": {},
+                "position": "middle"
+            },
+            "occurences": 1
+        },
+        "http:\/\/www.biznews.com\/briefs\/2014\/09\/01\/first-struts-jeff-wiggill-r1bn-fraudster-must-laughing-grave\/": {
+            "0": {
+                "text": "[IMG alt=]",
+                "rel": null,
+                "bodyPosition": 40,
+                "fragment": null,
+                "target": "_blank",
+                "path": {},
+                "position": "middle"
+            },
+            "occurences": 1
+        },
+        "http:\/\/mg.co.za\/article\/2013-08-22-who-is-jeff-wiggill": {
+            "0": {
+                "text": "[IMG alt=]",
+                "rel": null,
+                "bodyPosition": 40,
+                "fragment": null,
+                "target": "_blank",
+                "path": {},
+                "position": "middle"
+            },
+            "occurences": 1
+        },
+        "https:\/\/www.thestar.com\/news\/gta\/2016\/04\/30\/to-kill-a-ghost-the-life-and-death-of-clinton-yow-foo.html": {
+            "0": {
+                "text": "[IMG alt=]",
+                "rel": null,
+                "bodyPosition": 40,
+                "fragment": null,
+                "target": "_blank",
+                "path": {},
+                "position": "middle"
+            },
+            "occurences": 1
+        },
+        "http:\/\/www.cbc.ca\/news\/canada\/toronto\/murder-update-clinton-foo-1.3542673": {
+            "0": {
+                "text": "[IMG alt=]",
+                "rel": null,
+                "bodyPosition": 40,
+                "fragment": null,
+                "target": "_blank",
+                "path": {},
+                "position": "middle"
+            },
+            "occurences": 1
+        },
+        "http:\/\/www.torontosun.com\/2015\/10\/01\/man-found-dead-of-gunshot-wound-outside-scarborough-home": {
+            "0": {
+                "text": "[IMG alt=]",
+                "rel": null,
+                "bodyPosition": 40,
+                "fragment": null,
+                "target": "_blank",
+                "path": {},
+                "position": "middle"
+            },
+            "occurences": 1
+        },
+        "http:\/\/www.aljazeera.com\/news\/2015\/06\/egypt-state-prosecutor-motorcade-hit-bomb-attack-cairo-150629083650272.html": {
+            "0": {
+                "text": "[IMG alt=]",
+                "rel": null,
+                "bodyPosition": 40,
+                "fragment": null,
+                "target": "_blank",
+                "path": {},
+                "position": "middle"
+            },
+            "occurences": 1
+        },
+        "https:\/\/www.theguardian.com\/world\/2015\/jun\/29\/cairo-bomb-attack-injures-state-prosecutor": {
+            "0": {
+                "text": "[IMG alt=]",
+                "rel": null,
+                "bodyPosition": 40,
+                "fragment": null,
+                "target": "_blank",
+                "path": {},
+                "position": "middle"
+            },
+            "occurences": 1
+        },
+        "http:\/\/www.bbc.co.uk\/news\/world-europe-36843808": {
+            "0": {
+                "text": "[IMG alt=]",
+                "rel": null,
+                "bodyPosition": 40,
+                "fragment": null,
+                "target": "_blank",
+                "path": {},
+                "position": "middle"
+            },
+            "occurences": 1
+        },
+        "https:\/\/www.nytimes.com\/2016\/07\/21\/world\/europe\/pavel-sheremet-kiev-car-bomb.html?_r=0": {
+            "0": {
+                "text": "[IMG alt=]",
+                "rel": null,
+                "bodyPosition": 40,
+                "fragment": null,
+                "target": "_blank",
+                "path": {},
+                "position": "middle"
+            },
+            "occurences": 1
+        },
+        "https:\/\/themoscowtimes.com\/articles\/why-was-journalist-sheremet-killed-the-main-theories-54678": {
+            "0": {
+                "text": "[IMG alt=]",
+                "rel": null,
+                "bodyPosition": 40,
+                "fragment": null,
+                "target": "_blank",
+                "path": {},
+                "position": "middle"
+            },
+            "occurences": 1
+        },
+        "http:\/\/www.foxnews.com\/world\/2015\/01\/20\/investigator-to-probe-if-argentina-prosecutor-was-induced-to-suicide.html": {
+            "0": {
+                "text": "[IMG alt=]",
+                "rel": null,
+                "bodyPosition": 40,
+                "fragment": null,
+                "target": "_blank",
+                "path": {},
+                "position": "middle"
+            },
+            "occurences": 1
+        },
+        "http:\/\/www.jpost.com\/Israel-News\/Journalist-who-broke-news-of-prosecutors-death-flees-Argentina-for-Israel-388905": {
+            "0": {
+                "text": "[IMG alt=]",
+                "rel": null,
+                "bodyPosition": 40,
+                "fragment": null,
+                "target": "_blank",
+                "path": {},
+                "position": "middle"
+            },
+            "occurences": 1
+        },
+        "https:\/\/www.ft.com\/content\/5b43beae-a22a-11e4-bbb8-00144feab7de": {
+            "0": {
+                "text": "[IMG alt=]",
+                "rel": null,
+                "bodyPosition": 40,
+                "fragment": null,
+                "target": "_blank",
+                "path": {},
+                "position": "middle"
+            },
+            "occurences": 1
+        },
+        "https:\/\/bitmessage.org": {
+            "0": {
+                "text": "Bitmessage:",
+                "rel": null,
+                "bodyPosition": 65,
+                "fragment": null,
+                "target": "_blank",
+                "path": {
+                    "0": "footer"
+                },
+                "position": "middle"
+            },
+            "occurences": 1
+        }
+    },
+    "specialLinks": {},
+    "images": {
+        "https:\/\/mint.localhost.run\/images\/content\/logo.png": {
+            "0": {
+                "alt": null,
+                "title": null
+            },
+            "1": {
+                "alt": "",
+                "title": null
+            }
+        },
+        "https:\/\/mint.localhost.run\/images\/content\/space.png": {
+            "0": {
+                "alt": null,
+                "title": null
+            }
+        },
+        "https:\/\/mint.localhost.run\/images\/slides\/hisham-muhammad-zaki.jpg": {
+            "0": {
+                "alt": "",
+                "title": null
+            }
+        },
+        "https:\/\/mint.localhost.run\/images\/slides\/PavelSheremet.jpg": {
+            "0": {
+                "alt": "",
+                "title": null
+            }
+        },
+        "https:\/\/mint.localhost.run\/images\/slides\/alberto-nisman.jpg": {
+            "0": {
+                "alt": "",
+                "title": null
+            }
+        },
+        "https:\/\/mint.localhost.run\/images\/slides\/gabriel-catala-rufino.jpg": {
+            "0": {
+                "alt": "",
+                "title": null
+            }
+        },
+        "https:\/\/mint.localhost.run\/images\/media\/daily-express.png": {
+            "0": {
+                "alt": "",
+                "title": null
+            }
+        },
+        "https:\/\/mint.localhost.run\/images\/media\/guardian.jpeg": {
+            "0": {
+                "alt": "",
+                "title": null
+            }
+        },
+        "https:\/\/mint.localhost.run\/images\/media\/fox.jpg": {
+            "0": {
+                "alt": "",
+                "title": null
+            }
+        },
+        "https:\/\/mint.localhost.run\/images\/media\/elmundo.png": {
+            "0": {
+                "alt": "",
+                "title": null
+            }
+        },
+        "https:\/\/mint.localhost.run\/images\/media\/ultimahora.jpg": {
+            "0": {
+                "alt": "",
+                "title": null
+            }
+        },
+        "https:\/\/mint.localhost.run\/images\/media\/biznews.png": {
+            "0": {
+                "alt": "",
+                "title": null
+            }
+        },
+        "https:\/\/mint.localhost.run\/images\/media\/mg.jpg": {
+            "0": {
+                "alt": "",
+                "title": null
+            }
+        },
+        "https:\/\/mint.localhost.run\/images\/media\/thestar-logo.png": {
+            "0": {
+                "alt": "",
+                "title": null
+            }
+        },
+        "https:\/\/mint.localhost.run\/images\/media\/cbc.png": {
+            "0": {
+                "alt": "",
+                "title": null
+            }
+        },
+        "https:\/\/mint.localhost.run\/images\/media\/Toronto_Sun_Logo.png": {
+            "0": {
+                "alt": "",
+                "title": null
+            }
+        },
+        "https:\/\/mint.localhost.run\/images\/media\/alj.png": {
+            "0": {
+                "alt": "",
+                "title": null
+            }
+        },
+        "https:\/\/mint.localhost.run\/images\/media\/the_guardian.png": {
+            "0": {
+                "alt": "",
+                "title": null
+            }
+        },
+        "https:\/\/mint.localhost.run\/images\/media\/bbc.jpg": {
+            "0": {
+                "alt": "",
+                "title": null
+            }
+        },
+        "https:\/\/mint.localhost.run\/images\/media\/nyt.png": {
+            "0": {
+                "alt": "",
+                "title": null
+            }
+        },
+        "https:\/\/mint.localhost.run\/images\/media\/tmt.jpg": {
+            "0": {
+                "alt": "",
+                "title": null
+            }
+        },
+        "https:\/\/mint.localhost.run\/images\/media\/fox.png": {
+            "0": {
+                "alt": "",
+                "title": null
+            }
+        },
+        "https:\/\/mint.localhost.run\/images\/media\/jerusalem-post-logo.png": {
+            "0": {
+                "alt": "",
+                "title": null
+            }
+        },
+        "https:\/\/mint.localhost.run\/images\/media\/ft.png": {
+            "0": {
+                "alt": "",
+                "title": null
+            }
+        }
+    }
+}
