@@ -1,4 +1,4 @@
-#aspirer site et le mettre dans www/html
+#aspirer site et le mettre dans /var/www/html
 import os
 import subprocess
 import time
@@ -9,7 +9,6 @@ def aspire(urlArg):
     url = urlArg
     nameFile = "mirorSite";  # nouveau nom du fichier
     pathToDownload = allVariables.pathToDownload
-    # wget -p https://www.fcmetz.com/
     request = "torify wget http://" + url + " -P " + pathToDownload + " -t 1 -T 10";  # requête wget
     pathToApache = allVariables.pathToApache  # "/var/www/html/";
     sudoPassword = allVariables.sudoPassword
